@@ -5,6 +5,7 @@ FrePo is simple command-line project management for freelancers.
 
 == What are the main objectives of the project?
 Provide basic information about the open projects and clients of freelancer.
+Records clients, projects, tasks. Basic time tracking.
 
 == What are the target platforms?
 FrePo is written in Python 3, primary platform is Mac OS X 10.7 (Lion), but
